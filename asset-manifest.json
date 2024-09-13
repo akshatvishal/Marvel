@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_upload/static/css/main.3c8b82bf.css",
-    "main.js": "/react_upload/static/js/main.e31070e0.js",
-    "static/media/bg.jpg": "/react_upload/static/media/bg.c0326ef6040ff67a1db8.jpg",
-    "static/media/Loadingvideo.mp4": "/react_upload/static/media/Loadingvideo.eaa3dc44ecbec6c03726.mp4",
-    "static/media/MARVEL.jpeg": "/react_upload/static/media/MARVEL.b2c145fcc78cbf1b0fde.jpeg",
-    "index.html": "/react_upload/index.html",
-    "main.3c8b82bf.css.map": "/react_upload/static/css/main.3c8b82bf.css.map",
-    "main.e31070e0.js.map": "/react_upload/static/js/main.e31070e0.js.map"
+    "main.css": "/Marvel/static/css/main.3deb1648.css",
+    "main.js": "/Marvel/static/js/main.479f9274.js",
+    "static/media/bg.jpg": "/Marvel/static/media/bg.c0326ef6040ff67a1db8.jpg",
+    "static/media/Loadingvideo.mp4": "/Marvel/static/media/Loadingvideo.eaa3dc44ecbec6c03726.mp4",
+    "static/media/MARVEL.jpeg": "/Marvel/static/media/MARVEL.b2c145fcc78cbf1b0fde.jpeg",
+    "index.html": "/Marvel/index.html",
+    "main.3deb1648.css.map": "/Marvel/static/css/main.3deb1648.css.map",
+    "main.479f9274.js.map": "/Marvel/static/js/main.479f9274.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8b82bf.css",
-    "static/js/main.e31070e0.js"
+    "static/css/main.3deb1648.css",
+    "static/js/main.479f9274.js"
   ]
 }
